@@ -8,7 +8,7 @@ Python Client for Google Cloud Dataproc API (`Alpha`_)
 
 .. _Alpha: https://github.com/GoogleCloudPlatform/google-cloud-python/blob/master/README.rst
 .. _Google Cloud Dataproc API: https://cloud.google.com/dataproc
-.. _Client Library Documentation: https://googlecloudplatform.github.io/google-cloud-python/latest/dataproc/usage.html
+.. _Client Library Documentation: https://googlecloudplatform.github.io/google-cloud-python/latest/dataproc/
 .. _Product Documentation:  https://cloud.google.com/dataproc
 
 Quick Start
@@ -92,7 +92,7 @@ Next Steps
 ~~~~~~~~~~
 
 -  Read the `Client Library Documentation`_ for Google Cloud Dataproc API
-   API to see other available methods on the client.
+   to see other available methods on the client.
 -  Read the `Google Cloud Dataproc API Product documentation`_ to learn
    more about the product and see How-to Guides.
 -  View this `repository’s main README`_ to see the full list of Cloud
